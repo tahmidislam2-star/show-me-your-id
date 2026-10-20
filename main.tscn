@@ -1,0 +1,1113 @@
+[gd_scene format=3 uid="uid://b21s0horw4cpw"]
+
+[ext_resource type="Texture2D" uid="uid://dtaba66abeeix" path="res://sprites/bg.png" id="1_h2yge"]
+[ext_resource type="FontFile" uid="uid://c8i0cjftnen1" path="res://Born2bSportyFS.otf" id="2_1bvp3"]
+[ext_resource type="Texture2D" uid="uid://b168imjp0pm36" path="res://male/hair_male3.png" id="3_dg77c"]
+[ext_resource type="Texture2D" uid="uid://bg85rmm2e0dcc" path="res://sprites/basemodel.png" id="3_lquwl"]
+[ext_resource type="Texture2D" uid="uid://cmavdcwv73l17" path="res://sprites/cloth.png" id="4_5vw27"]
+[ext_resource type="Texture2D" uid="uid://c5jjxc781mj3t" path="res://male/hair_male4.png" id="4_ycdy4"]
+[ext_resource type="Texture2D" uid="uid://byn42841v0r0l" path="res://male/hair_male5.png" id="5_kek77"]
+[ext_resource type="Texture2D" uid="uid://cxrcglo4vscu4" path="res://male/hair_male1.png" id="5_w48qg"]
+[ext_resource type="Texture2D" uid="uid://c2l0e8xwm8o2w" path="res://male/eyes_male1.png" id="6_4c57u"]
+[ext_resource type="Texture2D" uid="uid://ck0ooh5bxa80x" path="res://male/hair_male2.png" id="6_vivmo"]
+[ext_resource type="Texture2D" uid="uid://6h8syb53vyo4" path="res://male/nose_male1.png" id="7_efxa6"]
+[ext_resource type="Texture2D" uid="uid://bsx47xmvawd58" path="res://male/mouth_male1.png" id="8_dg77c"]
+[ext_resource type="Texture2D" uid="uid://cu6web80as8vq" path="res://male/nose_male2.png" id="9_2cqfq"]
+[ext_resource type="Texture2D" uid="uid://bhni7ttos5csf" path="res://male/nose_male3.png" id="10_yaehf"]
+[ext_resource type="Texture2D" uid="uid://beufu8b8l1be0" path="res://male/eyes_male3.png" id="11_2cqfq"]
+[ext_resource type="Texture2D" uid="uid://wbq03qkbdjpj" path="res://male/nose_male4.png" id="11_074og"]
+[ext_resource type="Texture2D" uid="uid://dt4ekl21yo03v" path="res://male/nose_male5.png" id="12_cegan"]
+[ext_resource type="Texture2D" uid="uid://djvq5pjxnfrnu" path="res://male/eyes_male2.png" id="14_1u8w0"]
+[ext_resource type="Texture2D" uid="uid://bhja3r656vinw" path="res://male/eyes_male4.png" id="16_0odxb"]
+[ext_resource type="Texture2D" uid="uid://cu1ukjonbdhf0" path="res://male/eyes_male5.png" id="17_lswn8"]
+[ext_resource type="Texture2D" uid="uid://cj4p8vqw605lb" path="res://male/mouth_male2.png" id="19_a6jrf"]
+[ext_resource type="Texture2D" uid="uid://cyp1aqp3qylqk" path="res://male/mouth_male3.png" id="20_xuqvo"]
+[ext_resource type="Texture2D" uid="uid://1te28mhi4r4o" path="res://male/mouth_male4.png" id="21_qsp4k"]
+[ext_resource type="Texture2D" uid="uid://dufa02wuicpkp" path="res://male/mouth_male5.png" id="22_kq58d"]
+[ext_resource type="Texture2D" uid="uid://df5i87sxx0kmn" path="res://female/hair1_female.png" id="23_gngh3"]
+[ext_resource type="Texture2D" uid="uid://50dkfcuk00gl" path="res://female/hair4_female.png" id="24_0n3wm"]
+[ext_resource type="Texture2D" uid="uid://d36817p7wvc26" path="res://female/hair2_female.png" id="25_qnost"]
+[ext_resource type="Texture2D" uid="uid://uf8b522v4tw5" path="res://female/hair3_female.png" id="26_wnkbs"]
+[ext_resource type="Texture2D" uid="uid://dmbvtly8ridil" path="res://female/hair5_female.png" id="27_f6a44"]
+[ext_resource type="Texture2D" uid="uid://d2rrt3k27hiri" path="res://female/nose1_female.png" id="28_0cbny"]
+[ext_resource type="Texture2D" uid="uid://bulpiepay7epo" path="res://female/nose2_female.png" id="29_hrvbo"]
+[ext_resource type="Texture2D" uid="uid://lafj7lfi1ynd" path="res://female/nose3_female.png" id="30_uypp3"]
+[ext_resource type="Texture2D" uid="uid://b3nlqdqvor5r6" path="res://female/nose4_female.png" id="31_blkrb"]
+[ext_resource type="Texture2D" uid="uid://ch48dly76l10o" path="res://female/nose5_female.png" id="32_abqjc"]
+[ext_resource type="Texture2D" uid="uid://bjb0783huoajm" path="res://female/eyes1_female.png" id="33_6iyjs"]
+[ext_resource type="Texture2D" uid="uid://pa5q7u6a2i4y" path="res://female/eyes2_female.png" id="34_4w656"]
+[ext_resource type="Texture2D" uid="uid://brf77g01jn4ev" path="res://female/eyes3_female.png" id="35_e71vb"]
+[ext_resource type="Texture2D" uid="uid://cuv8nnpuy4mft" path="res://female/eyes4_female.png" id="36_rnkwl"]
+[ext_resource type="Texture2D" uid="uid://m84iekmomye4" path="res://female/eyes5_female.png" id="37_vke2r"]
+[ext_resource type="Texture2D" uid="uid://x2n0u3e8xw5b" path="res://female/mouth1_female.png" id="38_uit24"]
+[ext_resource type="Texture2D" uid="uid://dwswrfpxy1r1k" path="res://female/mouth3_female.png" id="39_ruth0"]
+[ext_resource type="Texture2D" uid="uid://dcd1hynoge8bk" path="res://female/mouth2_female.png" id="40_rm4vd"]
+[ext_resource type="Texture2D" uid="uid://jv0wnmb0x138" path="res://female/mouth4_female.png" id="41_pjyto"]
+[ext_resource type="Texture2D" uid="uid://jp7krdw6qvnf" path="res://female/mouth5_female.png" id="42_sm6fg"]
+[ext_resource type="Texture2D" uid="uid://6jekajx7elen" path="res://sprites/submit_button.png" id="43_wnkbs"]
+[ext_resource type="Texture2D" uid="uid://xyt4a3w0rvgf" path="res://sprites/submit_button_pressed.png" id="44_f6a44"]
+[ext_resource type="Texture2D" uid="uid://cdu1x3vf0ypv7" path="res://sprites/submit_button_hover.png" id="45_0cbny"]
+[ext_resource type="Texture2D" uid="uid://cmbltpu6rdblx" path="res://sprites/heart.png" id="46_f6a44"]
+[ext_resource type="Texture2D" uid="uid://bd5osmxl0asse" path="res://sprites/guard.png" id="49_0cbny"]
+
+[node name="Main" type="Node2D" unique_id=570743754]
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=658121565]
+offset_right = 640.0
+offset_bottom = 360.0
+color = Color(0.7529412, 0.6901961, 0.6392157, 1)
+
+[node name="Bg" type="Sprite2D" parent="." unique_id=560268704]
+position = Vector2(320, 180)
+texture = ExtResource("1_h2yge")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1866667687]
+
+[node name="Female_Button" type="Button" parent="CanvasLayer" unique_id=1900692020]
+anchors_preset = -1
+anchor_left = 0.384
+anchor_top = 0.54200006
+anchor_right = 0.384
+anchor_bottom = 0.54200006
+offset_left = 298.24
+offset_top = -8.120026
+offset_right = 376.24
+offset_bottom = 22.879974
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 6
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 20
+text = "Female"
+
+[node name="Male_button" type="Button" parent="CanvasLayer" unique_id=2042680796]
+anchors_preset = -1
+anchor_left = 0.384
+anchor_top = 0.54200006
+anchor_right = 0.384
+anchor_bottom = 0.54200006
+offset_left = 212.23999
+offset_top = -8.120026
+offset_right = 290.24
+offset_bottom = 22.879974
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 6
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 20
+text = "Male"
+
+[node name="Gender" type="Label" parent="CanvasLayer" unique_id=756720560]
+offset_left = 386.0
+offset_top = 187.0
+offset_right = 452.0
+offset_bottom = 215.0
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 8
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 24
+text = "Gender:"
+
+[node name="Male" type="Control" parent="CanvasLayer" unique_id=20763128]
+visible = false
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Hair" type="Control" parent="CanvasLayer/Male" unique_id=511418140]
+anchors_preset = 0
+offset_top = 241.0
+offset_right = 40.0
+offset_bottom = 281.0
+
+[node name="5" type="Button" parent="CanvasLayer/Male/Hair" unique_id=1835487707]
+layout_mode = 0
+offset_left = 265.0
+offset_top = -5.0
+offset_right = 313.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Hair/5" unique_id=786069298]
+layout_mode = 0
+offset_left = -5.0
+offset_top = 7.0
+offset_right = 53.0
+offset_bottom = 77.0
+mouse_filter = 2
+texture = ExtResource("3_dg77c")
+expand_mode = 1
+
+[node name="4" type="Button" parent="CanvasLayer/Male/Hair" unique_id=414963513]
+layout_mode = 0
+offset_left = 215.0
+offset_top = -5.0
+offset_right = 263.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Hair/4" unique_id=1888029631]
+layout_mode = 0
+offset_left = -5.0
+offset_top = 7.0
+offset_right = 53.0
+offset_bottom = 77.0
+mouse_filter = 2
+texture = ExtResource("4_ycdy4")
+expand_mode = 1
+
+[node name="3" type="Button" parent="CanvasLayer/Male/Hair" unique_id=668436612]
+layout_mode = 0
+offset_left = 165.0
+offset_top = -5.0
+offset_right = 213.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Hair/3" unique_id=145586538]
+layout_mode = 0
+offset_left = -5.0
+offset_top = 7.0
+offset_right = 53.0
+offset_bottom = 77.0
+mouse_filter = 2
+texture = ExtResource("5_w48qg")
+expand_mode = 1
+
+[node name="2" type="Button" parent="CanvasLayer/Male/Hair" unique_id=1612468248]
+layout_mode = 0
+offset_left = 115.0
+offset_top = -5.0
+offset_right = 163.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Hair/2" unique_id=1393641731]
+layout_mode = 0
+offset_left = -5.0
+offset_top = 7.0
+offset_right = 53.0
+offset_bottom = 77.0
+mouse_filter = 2
+texture = ExtResource("6_vivmo")
+expand_mode = 1
+
+[node name="1" type="Button" parent="CanvasLayer/Male/Hair" unique_id=1616885153]
+layout_mode = 0
+offset_left = 65.0
+offset_top = -5.0
+offset_right = 113.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Hair/1" unique_id=1607275418]
+layout_mode = 0
+offset_left = -5.0
+offset_top = 7.0
+offset_right = 53.0
+offset_bottom = 77.0
+mouse_filter = 2
+texture = ExtResource("5_kek77")
+expand_mode = 1
+
+[node name="Label" type="Label" parent="CanvasLayer/Male/Hair" unique_id=1547649527]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 4.0
+offset_right = 52.0
+offset_bottom = 32.0
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 8
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 24
+text = "Hair:"
+
+[node name="Nose" type="Control" parent="CanvasLayer/Male" unique_id=250992502]
+anchors_preset = 0
+offset_top = 298.0
+offset_right = 40.0
+offset_bottom = 338.0
+
+[node name="5" type="Button" parent="CanvasLayer/Male/Nose" unique_id=556785252]
+layout_mode = 0
+offset_left = 265.0
+offset_top = -5.0
+offset_right = 313.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Nose/5" unique_id=761481916]
+layout_mode = 0
+offset_left = -70.0
+offset_top = -38.0
+offset_right = 111.0
+offset_bottom = 127.0
+mouse_filter = 2
+texture = ExtResource("7_efxa6")
+
+[node name="4" type="Button" parent="CanvasLayer/Male/Nose" unique_id=604712654]
+layout_mode = 0
+offset_left = 215.0
+offset_top = -5.0
+offset_right = 263.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Nose/4" unique_id=2017984545]
+layout_mode = 0
+offset_left = -70.0
+offset_top = -38.0
+offset_right = 111.0
+offset_bottom = 127.0
+mouse_filter = 2
+texture = ExtResource("9_2cqfq")
+
+[node name="3" type="Button" parent="CanvasLayer/Male/Nose" unique_id=1294422089]
+layout_mode = 0
+offset_left = 165.0
+offset_top = -5.0
+offset_right = 213.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Nose/3" unique_id=1880245484]
+layout_mode = 0
+offset_left = -70.0
+offset_top = -38.0
+offset_right = 111.0
+offset_bottom = 127.0
+mouse_filter = 2
+texture = ExtResource("10_yaehf")
+
+[node name="2" type="Button" parent="CanvasLayer/Male/Nose" unique_id=1119286355]
+layout_mode = 0
+offset_left = 115.0
+offset_top = -5.0
+offset_right = 163.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Nose/2" unique_id=1708391756]
+layout_mode = 0
+offset_left = -70.0
+offset_top = -38.0
+offset_right = 111.0
+offset_bottom = 127.0
+mouse_filter = 2
+texture = ExtResource("11_074og")
+
+[node name="1" type="Button" parent="CanvasLayer/Male/Nose" unique_id=1256039479]
+layout_mode = 0
+offset_left = 65.0
+offset_top = -5.0
+offset_right = 113.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Nose/1" unique_id=2003833799]
+layout_mode = 0
+offset_left = -70.0
+offset_top = -38.0
+offset_right = 111.0
+offset_bottom = 127.0
+mouse_filter = 2
+texture = ExtResource("12_cegan")
+
+[node name="Label" type="Label" parent="CanvasLayer/Male/Nose" unique_id=1253088395]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 4.0
+offset_right = 52.0
+offset_bottom = 32.0
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 8
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 24
+text = "Nose:"
+
+[node name="Eyes" type="Control" parent="CanvasLayer/Male" unique_id=398743089]
+anchors_preset = 0
+offset_left = 316.0
+offset_top = 241.0
+offset_right = 356.0
+offset_bottom = 281.0
+
+[node name="5" type="Button" parent="CanvasLayer/Male/Eyes" unique_id=1596932789]
+layout_mode = 0
+offset_left = 265.0
+offset_top = -5.0
+offset_right = 313.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Eyes/5" unique_id=1905246578]
+layout_mode = 0
+offset_left = -46.0
+offset_top = -11.0
+offset_right = 91.0
+offset_bottom = 111.0
+mouse_filter = 2
+texture = ExtResource("6_4c57u")
+
+[node name="4" type="Button" parent="CanvasLayer/Male/Eyes" unique_id=235328920]
+layout_mode = 0
+offset_left = 215.0
+offset_top = -5.0
+offset_right = 263.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Eyes/4" unique_id=153140231]
+layout_mode = 0
+offset_left = -51.0
+offset_top = -16.0
+offset_right = 96.0
+offset_bottom = 123.0
+mouse_filter = 2
+texture = ExtResource("14_1u8w0")
+
+[node name="3" type="Button" parent="CanvasLayer/Male/Eyes" unique_id=1370687426]
+layout_mode = 0
+offset_left = 165.0
+offset_top = -5.0
+offset_right = 213.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Eyes/3" unique_id=1595789182]
+layout_mode = 0
+offset_left = -51.0
+offset_top = -16.0
+offset_right = 96.0
+offset_bottom = 123.0
+mouse_filter = 2
+texture = ExtResource("11_2cqfq")
+
+[node name="2" type="Button" parent="CanvasLayer/Male/Eyes" unique_id=531470667]
+layout_mode = 0
+offset_left = 115.0
+offset_top = -5.0
+offset_right = 163.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Eyes/2" unique_id=511400806]
+layout_mode = 0
+offset_left = -51.0
+offset_top = -16.0
+offset_right = 96.0
+offset_bottom = 123.0
+mouse_filter = 2
+texture = ExtResource("16_0odxb")
+
+[node name="1" type="Button" parent="CanvasLayer/Male/Eyes" unique_id=1898782067]
+layout_mode = 0
+offset_left = 65.0
+offset_top = -5.0
+offset_right = 113.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Eyes/1" unique_id=511237845]
+layout_mode = 0
+offset_left = -51.0
+offset_top = -16.0
+offset_right = 96.0
+offset_bottom = 123.0
+mouse_filter = 2
+texture = ExtResource("17_lswn8")
+
+[node name="Label" type="Label" parent="CanvasLayer/Male/Eyes" unique_id=1489595239]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 4.0
+offset_right = 52.0
+offset_bottom = 32.0
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 8
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 24
+text = "Eyes:"
+
+[node name="Lips" type="Control" parent="CanvasLayer/Male" unique_id=2078035437]
+anchors_preset = 0
+offset_left = 316.0
+offset_top = 298.0
+offset_right = 356.0
+offset_bottom = 338.0
+
+[node name="5" type="Button" parent="CanvasLayer/Male/Lips" unique_id=895190426]
+layout_mode = 0
+offset_left = 265.0
+offset_top = -5.0
+offset_right = 313.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Lips/5" unique_id=1289029028]
+layout_mode = 0
+offset_left = -47.0
+offset_top = -23.0
+offset_right = 90.0
+offset_bottom = 99.0
+mouse_filter = 2
+texture = ExtResource("8_dg77c")
+
+[node name="4" type="Button" parent="CanvasLayer/Male/Lips" unique_id=452344161]
+layout_mode = 0
+offset_left = 215.0
+offset_top = -5.0
+offset_right = 263.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Lips/4" unique_id=1405816456]
+layout_mode = 0
+offset_left = -47.0
+offset_top = -23.0
+offset_right = 90.0
+offset_bottom = 99.0
+mouse_filter = 2
+texture = ExtResource("19_a6jrf")
+
+[node name="3" type="Button" parent="CanvasLayer/Male/Lips" unique_id=1596155343]
+layout_mode = 0
+offset_left = 165.0
+offset_top = -5.0
+offset_right = 213.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Lips/3" unique_id=1239641425]
+layout_mode = 0
+offset_left = -47.0
+offset_top = -23.0
+offset_right = 90.0
+offset_bottom = 99.0
+mouse_filter = 2
+texture = ExtResource("20_xuqvo")
+
+[node name="2" type="Button" parent="CanvasLayer/Male/Lips" unique_id=1999130117]
+layout_mode = 0
+offset_left = 115.0
+offset_top = -5.0
+offset_right = 163.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Lips/2" unique_id=188213218]
+layout_mode = 0
+offset_left = -47.0
+offset_top = -23.0
+offset_right = 90.0
+offset_bottom = 99.0
+mouse_filter = 2
+texture = ExtResource("21_qsp4k")
+
+[node name="1" type="Button" parent="CanvasLayer/Male/Lips" unique_id=1679141809]
+layout_mode = 0
+offset_left = 65.0
+offset_top = -5.0
+offset_right = 113.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Male/Lips/1" unique_id=781193261]
+layout_mode = 0
+offset_left = -47.0
+offset_top = -23.0
+offset_right = 90.0
+offset_bottom = 99.0
+mouse_filter = 2
+texture = ExtResource("22_kq58d")
+
+[node name="Label" type="Label" parent="CanvasLayer/Male/Lips" unique_id=1314482099]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 4.0
+offset_right = 52.0
+offset_bottom = 32.0
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 8
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 24
+text = "Lips:"
+
+[node name="Female" type="Control" parent="CanvasLayer" unique_id=1928672796]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Hair" type="Control" parent="CanvasLayer/Female" unique_id=154351785]
+anchors_preset = 0
+offset_top = 241.0
+offset_right = 40.0
+offset_bottom = 281.0
+
+[node name="5" type="Button" parent="CanvasLayer/Female/Hair" unique_id=1988273578]
+layout_mode = 0
+offset_left = 265.0
+offset_top = -5.0
+offset_right = 313.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Hair/5" unique_id=1570870685]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -26.0
+offset_top = -23.0
+offset_right = 26.0
+offset_bottom = 41.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+texture = ExtResource("23_gngh3")
+expand_mode = 1
+
+[node name="4" type="Button" parent="CanvasLayer/Female/Hair" unique_id=1379164153]
+layout_mode = 0
+offset_left = 215.0
+offset_top = -5.0
+offset_right = 263.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Hair/4" unique_id=479349632]
+layout_mode = 0
+offset_left = -5.0
+offset_right = 53.0
+offset_bottom = 70.0
+mouse_filter = 2
+texture = ExtResource("24_0n3wm")
+expand_mode = 1
+
+[node name="3" type="Button" parent="CanvasLayer/Female/Hair" unique_id=1090537237]
+layout_mode = 0
+offset_left = 165.0
+offset_top = -5.0
+offset_right = 213.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Hair/3" unique_id=527712978]
+layout_mode = 0
+offset_left = -5.0
+offset_top = 7.0
+offset_right = 53.0
+offset_bottom = 77.0
+mouse_filter = 2
+texture = ExtResource("25_qnost")
+expand_mode = 1
+
+[node name="2" type="Button" parent="CanvasLayer/Female/Hair" unique_id=511622683]
+layout_mode = 0
+offset_left = 115.0
+offset_top = -5.0
+offset_right = 163.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Hair/2" unique_id=1293289956]
+layout_mode = 0
+offset_left = -5.0
+offset_top = 3.0
+offset_right = 53.0
+offset_bottom = 73.0
+mouse_filter = 2
+texture = ExtResource("26_wnkbs")
+expand_mode = 1
+
+[node name="1" type="Button" parent="CanvasLayer/Female/Hair" unique_id=1440088932]
+layout_mode = 0
+offset_left = 65.0
+offset_top = -5.0
+offset_right = 113.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Hair/1" unique_id=1541331979]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -25.0
+offset_top = -23.0
+offset_right = 25.0
+offset_bottom = 33.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+texture = ExtResource("27_f6a44")
+expand_mode = 1
+
+[node name="Label" type="Label" parent="CanvasLayer/Female/Hair" unique_id=1841423251]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 4.0
+offset_right = 52.0
+offset_bottom = 32.0
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 8
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 24
+text = "Hair:"
+
+[node name="Nose" type="Control" parent="CanvasLayer/Female" unique_id=1021816820]
+anchors_preset = 0
+offset_top = 298.0
+offset_right = 40.0
+offset_bottom = 338.0
+
+[node name="5" type="Button" parent="CanvasLayer/Female/Nose" unique_id=1247657504]
+layout_mode = 0
+offset_left = 265.0
+offset_top = -5.0
+offset_right = 313.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Nose/5" unique_id=1763297867]
+layout_mode = 0
+offset_left = -70.0
+offset_top = -38.0
+offset_right = 111.0
+offset_bottom = 127.0
+mouse_filter = 2
+texture = ExtResource("28_0cbny")
+
+[node name="4" type="Button" parent="CanvasLayer/Female/Nose" unique_id=112031971]
+layout_mode = 0
+offset_left = 215.0
+offset_top = -5.0
+offset_right = 263.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Nose/4" unique_id=2014528494]
+layout_mode = 0
+offset_left = -70.0
+offset_top = -38.0
+offset_right = 111.0
+offset_bottom = 127.0
+mouse_filter = 2
+texture = ExtResource("29_hrvbo")
+
+[node name="3" type="Button" parent="CanvasLayer/Female/Nose" unique_id=716918903]
+layout_mode = 0
+offset_left = 165.0
+offset_top = -5.0
+offset_right = 213.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Nose/3" unique_id=1479400004]
+layout_mode = 0
+offset_left = -84.0
+offset_top = -37.0
+offset_right = 97.0
+offset_bottom = 128.0
+mouse_filter = 2
+texture = ExtResource("30_uypp3")
+
+[node name="2" type="Button" parent="CanvasLayer/Female/Nose" unique_id=1697377308]
+layout_mode = 0
+offset_left = 115.0
+offset_top = -5.0
+offset_right = 163.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Nose/2" unique_id=1617781797]
+layout_mode = 0
+offset_left = -70.0
+offset_top = -38.0
+offset_right = 111.0
+offset_bottom = 127.0
+mouse_filter = 2
+texture = ExtResource("31_blkrb")
+
+[node name="1" type="Button" parent="CanvasLayer/Female/Nose" unique_id=1398139088]
+layout_mode = 0
+offset_left = 65.0
+offset_top = -5.0
+offset_right = 113.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Nose/1" unique_id=874131664]
+layout_mode = 0
+offset_left = -70.0
+offset_top = -38.0
+offset_right = 111.0
+offset_bottom = 127.0
+mouse_filter = 2
+texture = ExtResource("32_abqjc")
+
+[node name="Label" type="Label" parent="CanvasLayer/Female/Nose" unique_id=685528304]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 4.0
+offset_right = 52.0
+offset_bottom = 32.0
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 8
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 24
+text = "Nose:"
+
+[node name="Eyes" type="Control" parent="CanvasLayer/Female" unique_id=762941380]
+anchors_preset = 0
+offset_left = 316.0
+offset_top = 241.0
+offset_right = 356.0
+offset_bottom = 281.0
+
+[node name="5" type="Button" parent="CanvasLayer/Female/Eyes" unique_id=505465153]
+layout_mode = 0
+offset_left = 265.0
+offset_top = -5.0
+offset_right = 313.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Eyes/5" unique_id=1210576701]
+layout_mode = 0
+offset_left = -46.0
+offset_top = -11.0
+offset_right = 91.0
+offset_bottom = 111.0
+mouse_filter = 2
+texture = ExtResource("33_6iyjs")
+
+[node name="4" type="Button" parent="CanvasLayer/Female/Eyes" unique_id=2111123620]
+layout_mode = 0
+offset_left = 215.0
+offset_top = -5.0
+offset_right = 263.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Eyes/4" unique_id=1766225521]
+layout_mode = 0
+offset_left = -52.0
+offset_top = -16.0
+offset_right = 95.0
+offset_bottom = 123.0
+mouse_filter = 2
+texture = ExtResource("34_4w656")
+
+[node name="3" type="Button" parent="CanvasLayer/Female/Eyes" unique_id=1794897095]
+layout_mode = 0
+offset_left = 165.0
+offset_top = -5.0
+offset_right = 213.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Eyes/3" unique_id=1708315689]
+layout_mode = 0
+offset_left = -52.0
+offset_top = -16.0
+offset_right = 95.0
+offset_bottom = 123.0
+mouse_filter = 2
+texture = ExtResource("35_e71vb")
+
+[node name="2" type="Button" parent="CanvasLayer/Female/Eyes" unique_id=2057182113]
+layout_mode = 0
+offset_left = 115.0
+offset_top = -5.0
+offset_right = 163.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Eyes/2" unique_id=1559298926]
+layout_mode = 0
+offset_left = -53.0
+offset_top = -16.0
+offset_right = 94.0
+offset_bottom = 123.0
+mouse_filter = 2
+texture = ExtResource("36_rnkwl")
+
+[node name="1" type="Button" parent="CanvasLayer/Female/Eyes" unique_id=225674938]
+layout_mode = 0
+offset_left = 65.0
+offset_top = -5.0
+offset_right = 113.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Eyes/1" unique_id=2105361206]
+layout_mode = 0
+offset_left = -52.0
+offset_top = -16.0
+offset_right = 95.0
+offset_bottom = 123.0
+mouse_filter = 2
+texture = ExtResource("37_vke2r")
+
+[node name="Label" type="Label" parent="CanvasLayer/Female/Eyes" unique_id=1180400481]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 4.0
+offset_right = 52.0
+offset_bottom = 32.0
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 8
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 24
+text = "Eyes:"
+
+[node name="Lips" type="Control" parent="CanvasLayer/Female" unique_id=1170554051]
+anchors_preset = 0
+offset_left = 316.0
+offset_top = 298.0
+offset_right = 356.0
+offset_bottom = 338.0
+
+[node name="5" type="Button" parent="CanvasLayer/Female/Lips" unique_id=2001287956]
+layout_mode = 0
+offset_left = 265.0
+offset_top = -5.0
+offset_right = 313.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Lips/5" unique_id=2040956317]
+layout_mode = 0
+offset_left = -47.0
+offset_top = -23.0
+offset_right = 90.0
+offset_bottom = 99.0
+mouse_filter = 2
+texture = ExtResource("38_uit24")
+
+[node name="4" type="Button" parent="CanvasLayer/Female/Lips" unique_id=2051938119]
+layout_mode = 0
+offset_left = 215.0
+offset_top = -5.0
+offset_right = 263.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Lips/4" unique_id=1086458795]
+layout_mode = 0
+offset_left = -47.0
+offset_top = -23.0
+offset_right = 90.0
+offset_bottom = 99.0
+mouse_filter = 2
+texture = ExtResource("39_ruth0")
+
+[node name="3" type="Button" parent="CanvasLayer/Female/Lips" unique_id=1034083280]
+layout_mode = 0
+offset_left = 165.0
+offset_top = -5.0
+offset_right = 213.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Lips/3" unique_id=390083464]
+layout_mode = 0
+offset_left = -47.0
+offset_top = -23.0
+offset_right = 90.0
+offset_bottom = 99.0
+mouse_filter = 2
+texture = ExtResource("40_rm4vd")
+
+[node name="2" type="Button" parent="CanvasLayer/Female/Lips" unique_id=1171720303]
+layout_mode = 0
+offset_left = 115.0
+offset_top = -5.0
+offset_right = 163.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Lips/2" unique_id=1921018709]
+layout_mode = 0
+offset_left = -47.0
+offset_top = -23.0
+offset_right = 90.0
+offset_bottom = 99.0
+mouse_filter = 2
+texture = ExtResource("41_pjyto")
+
+[node name="1" type="Button" parent="CanvasLayer/Female/Lips" unique_id=1158817457]
+layout_mode = 0
+offset_left = 65.0
+offset_top = -5.0
+offset_right = 113.0
+offset_bottom = 43.0
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Female/Lips/1" unique_id=1614590568]
+layout_mode = 0
+offset_left = -47.0
+offset_top = -23.0
+offset_right = 90.0
+offset_bottom = 99.0
+mouse_filter = 2
+texture = ExtResource("42_sm6fg")
+
+[node name="Label" type="Label" parent="CanvasLayer/Female/Lips" unique_id=1047674155]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 4.0
+offset_right = 52.0
+offset_bottom = 32.0
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 8
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 24
+text = "Lips:"
+
+[node name="others" type="Control" parent="CanvasLayer" unique_id=357172316]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Feature2" type="Label" parent="CanvasLayer/others" unique_id=1331137950]
+layout_mode = 0
+offset_left = 6.0
+offset_top = 271.0
+offset_right = 76.0
+offset_bottom = 299.0
+theme_override_colors/font_color = Color(0.59449077, 0.5120843, 0.44544274, 1)
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 12
+text = "*Feature 2*"
+
+[node name="Feature1" type="Label" parent="CanvasLayer/others" unique_id=1556104088]
+layout_mode = 0
+offset_left = 392.0
+offset_top = 210.0
+offset_right = 462.0
+offset_bottom = 238.0
+theme_override_colors/font_color = Color(0.59449077, 0.5120843, 0.44544274, 1)
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 12
+text = "*Feature 1*"
+
+[node name="Feature3" type="Label" parent="CanvasLayer/others" unique_id=1498037076]
+layout_mode = 0
+offset_left = 326.0
+offset_top = 271.0
+offset_right = 396.0
+offset_bottom = 299.0
+theme_override_colors/font_color = Color(0.59449077, 0.5120843, 0.44544274, 1)
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 12
+text = "*Feature 3*"
+
+[node name="Feature4" type="Label" parent="CanvasLayer/others" unique_id=1187711221]
+layout_mode = 0
+offset_left = 6.0
+offset_top = 326.0
+offset_right = 76.0
+offset_bottom = 354.0
+theme_override_colors/font_color = Color(0.59449077, 0.5120843, 0.44544274, 1)
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 12
+text = "*Feature 4*"
+
+[node name="Feature5" type="Label" parent="CanvasLayer/others" unique_id=1160341026]
+layout_mode = 0
+offset_left = 326.0
+offset_top = 326.0
+offset_right = 396.0
+offset_bottom = 354.0
+theme_override_colors/font_color = Color(0.59449077, 0.5120843, 0.44544274, 1)
+theme_override_fonts/font = ExtResource("2_1bvp3")
+theme_override_font_sizes/font_size = 12
+text = "*Feature 5*"
+
+[node name="TextureButton" type="TextureButton" parent="CanvasLayer" unique_id=1039019932]
+offset_left = 99.0
+offset_top = 176.0
+offset_right = 191.0
+offset_bottom = 224.0
+texture_normal = ExtResource("43_wnkbs")
+texture_pressed = ExtResource("44_f6a44")
+texture_hover = ExtResource("45_0cbny")
+
+[node name="Feedback" type="ColorRect" parent="CanvasLayer" unique_id=570332091]
+offset_left = 302.0
+offset_top = 65.0
+offset_right = 429.0
+offset_bottom = 114.0
+color = Color(0.12941177, 0.12941177, 0.13725491, 1)
+
+[node name="FeatureWarning" type="Label" parent="CanvasLayer" unique_id=326336486]
+offset_left = 304.0
+offset_top = 69.0
+offset_right = 427.0
+offset_bottom = 118.0
+theme_override_fonts/font = ExtResource("2_1bvp3")
+text = "5 Features are Wrong."
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="hearts" type="HBoxContainer" parent="CanvasLayer" unique_id=437469253]
+offset_left = 306.0
+offset_top = 28.000002
+offset_right = 364.0
+offset_bottom = 40.0
+scale = Vector2(2.03, 2.03)
+theme_override_constants/separation = 2
+
+[node name="heart1" type="TextureRect" parent="CanvasLayer/hearts" unique_id=65755524]
+layout_mode = 2
+texture = ExtResource("46_f6a44")
+stretch_mode = 4
+
+[node name="heart2" type="TextureRect" parent="CanvasLayer/hearts" unique_id=1214493142]
+layout_mode = 2
+texture = ExtResource("46_f6a44")
+stretch_mode = 4
+
+[node name="heart3" type="TextureRect" parent="CanvasLayer/hearts" unique_id=1660310009]
+layout_mode = 2
+texture = ExtResource("46_f6a44")
+stretch_mode = 4
+
+[node name="heart4" type="TextureRect" parent="CanvasLayer/hearts" unique_id=1397628843]
+layout_mode = 2
+texture = ExtResource("46_f6a44")
+stretch_mode = 4
+
+[node name="heart5" type="TextureRect" parent="CanvasLayer/hearts" unique_id=25380911]
+layout_mode = 2
+texture = ExtResource("46_f6a44")
+stretch_mode = 4
+
+[node name="heart6" type="TextureRect" parent="CanvasLayer/hearts" unique_id=915048029]
+layout_mode = 2
+texture = ExtResource("46_f6a44")
+stretch_mode = 4
+
+[node name="GuardFeedback" type="ColorRect" parent="CanvasLayer" unique_id=1814899018]
+offset_left = 435.0
+offset_top = 121.0
+offset_right = 634.0
+offset_bottom = 170.0
+color = Color(0.27058825, 0.26666668, 0.30980393, 1)
+
+[node name="GuardLabel" type="Label" parent="CanvasLayer" unique_id=2004185902]
+offset_left = 440.0
+offset_top = 122.0
+offset_right = 634.0
+offset_bottom = 166.0
+theme_override_fonts/font = ExtResource("2_1bvp3")
+text = "Show Me Your ID Card."
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Character" type="Node2D" parent="." unique_id=530488249]
+position = Vector2(236, 110)
+
+[node name="bg" type="ColorRect" parent="Character" unique_id=1303003706]
+offset_left = -60.0
+offset_top = -55.0
+offset_right = 55.0
+offset_bottom = 56.0
+color = Color(0.74737656, 0.7926788, 0.76948994, 1)
+
+[node name="Base" type="Sprite2D" parent="Character" unique_id=544148015]
+texture = ExtResource("3_lquwl")
+
+[node name="Cloth" type="Sprite2D" parent="Character" unique_id=1270423858]
+modulate = Color(0.596609, 0.2899987, 0.2388899, 1)
+texture = ExtResource("4_5vw27")
+
+[node name="Hair" type="Sprite2D" parent="Character" unique_id=1765928063]
+texture = ExtResource("3_dg77c")
+
+[node name="Eyes" type="Sprite2D" parent="Character" unique_id=1218983715]
+texture = ExtResource("11_2cqfq")
+
+[node name="Nose" type="Sprite2D" parent="Character" unique_id=1851962646]
+texture = ExtResource("7_efxa6")
+
+[node name="Mouth" type="Sprite2D" parent="Character" unique_id=593468013]
+texture = ExtResource("8_dg77c")
+
+[node name="Guard" type="Sprite2D" parent="." unique_id=1392451175]
+position = Vector2(536, 95.25)
+scale = Vector2(1, 1.0033557)
+texture = ExtResource("49_0cbny")
